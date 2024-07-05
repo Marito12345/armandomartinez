@@ -1,0 +1,29 @@
+Body{   
+    
+}
+
+.footer{
+    height: 50px;
+    background-color: darkgrey;
+}
+
+.logo{
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+    transition: all 300ms ease;
+}   
+
+.logo:hover{
+    transform: translateY(-4%);
+}
+
+.card{
+    float: left;
+    margin-left: 45px;
+    transition: all 350ms ease;
+}
+
+.card:hover{
+    transform: translateY(-3%);    
+}
