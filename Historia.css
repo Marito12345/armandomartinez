@@ -1,0 +1,33 @@
+Body{   
+    
+}
+
+.footer{
+    height: 50px;
+    background-color: darkgrey;
+}
+
+.logo{
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+    transition: all 300ms ease;
+}   
+
+.logo:hover{
+    transform: translateY(-4%);
+}
+
+.Historia{
+    color: Black;
+}
+
+.Profesor{
+    transition: all 400ms ease;
+    width: 450px;
+}
+
+.Profesor:hover{
+    transform: translateY(-3%);
+}
+
