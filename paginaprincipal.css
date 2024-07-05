@@ -1,0 +1,57 @@
+Body{   
+    
+}
+
+nav{
+    margin-bottom: 60px;    
+}
+
+.footer{
+    height: 162px;
+    background-color: darkgrey;
+}
+
+.logo{
+    text-align: center;
+    margin-top: 10px; 
+}   
+
+.card{
+    float: left;
+    margin-left: 120px;
+    transition: all 350ms ease;
+}
+
+.card:hover{
+    transform: translateY(-3%);
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.4);
+}
+
+.Historia{
+    color: Black;
+}
+
+.Profesor{
+    transition: all 400ms ease;
+    width: 450px;
+}
+
+.Profesor:hover{
+    transform: translateY(-3%);
+}
+
+.containerL{
+    width: 91%;
+}
+
+.size{
+    width: 90%;
+    margin-left: 80px;
+    border: black solid 2px;
+}
+
+.mapa{
+    border: blue solid 5px;
+    width: 612px;
+    height: 461px;
+}

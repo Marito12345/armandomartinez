@@ -1,0 +1,44 @@
+Body{   
+    
+}
+
+.footer{
+    height: 162px;
+    background-color: darkgrey;
+}
+
+.logo{
+    margin-top: 10px;
+    text-align: center;
+}   
+
+.card{
+    float: left;
+    margin-left: 45px;
+    transition: all 350ms ease;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.card:hover{
+    transform: translateY(-3%);
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.4);
+}
+
+.Historia{
+    color: Black;
+}
+
+.Profesor{
+    transition: all 400ms ease;
+    width: 450px;
+}
+
+.Profesor:hover{
+    transform: translateY(-3%);
+}
+
+.container{
+    text-align: center;
+}
+
